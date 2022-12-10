@@ -20,6 +20,9 @@ tasks:
     depends:
       -
         name: multi-versions
+    followup:
+      -
+        name: cli-test
   -
     name: multi-versions
     language: Raku
@@ -75,9 +78,6 @@ tasks:
     depends:
       -
         name: install-deps
-    followup:
-      -
-        name: cli-test
   -
     name: cli-test
     language: Bash

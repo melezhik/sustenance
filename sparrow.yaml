@@ -75,6 +75,23 @@ tasks:
     depends:
       -
         name: install-deps
+    followup:
+      -
+        name: cli-test
+  -
+    name: cli-test
+    language: Bash
+    code: |
+      set -e
+      cd source/
+      export RAKULIB=lib
+      bin/sustenance \
+        --weight=59.4206 \
+        --height=175.26 \
+        --age=31 \
+        --gender=male \
+        --activity-level=lightly-active \
+        gen-diet-plan
   -
     name: install-deps
     language: Bash

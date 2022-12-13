@@ -1160,6 +1160,17 @@ fiber = 4
 fat = 1
 source = 'launceston product label'
 
+# cinderella - instant mashed potatoes
+# ingredients: potatoes (100%)
+[[food]]
+name = 'cinderella-instant-mashed-potatoes'
+serving-size = '100g'
+protein = 9
+carbs = 79
+fiber = 7
+fat = 0
+source = 'gold coast product label'
+
 # clearly premium - smoked ocean trout
 # ingredients: ocean trout (oncorhynchus mykiss) (97%), sea salt (3%),
 # natural wood smoke
@@ -1485,6 +1496,17 @@ carbs = 13.5
 fiber = 2.9
 fat = 0.5
 source = 'gold coast product label'
+
+# deep cove - wild caught sardines - in springwater
+# ingredients: sardines (sardinella longiceps or sardinella gibbosa wild
+# caught in pacific or indian ocean) (72%), spring water (28%), salt
+[[food]]
+name = 'deep-cove-wild-caught-sardines-in-springwater'
+serving-size = '100g'
+protein = 23.8
+carbs = 0
+fat = 2.8
+source = 'launceston product label'
 
 # desert valley date - date coconut rolls
 # ingredients: dates (90%), desiccated coconut (10%)
@@ -3797,6 +3819,16 @@ fiber = 2.7
 fat = 0.6
 source = 'gold coast product label'
 
+# oqua - coconut water
+# ingredients: certified organic coconut water
+[[food]]
+name = 'oqua-coconut-water'
+serving-size = '100g'
+protein = 0
+carbs = 6
+fat = 0
+source = 'gold coast product label'
+
 # naked kitchen - eat well - peanut satay and kumara bowl
 # ingredients: potato, water, tomato, kumara (12%), carrot, peanut
 # (6%), onion, green beans, capsicum, coconut cream, soy sauce (gluten
@@ -5239,6 +5271,17 @@ protein = 10
 carbs = 61.1
 fiber = 6.5
 fat = 17.6
+source = 'gold coast product label'
+
+# the baron - corn nibbles - sea salt
+# ingredients: wholegrain corn (84%), high oleic sunflower oil, sea salt
+[[food]]
+name = 'the-baron-corn-nibbles-sea-salt'
+serving-size = '100g'
+protein = 7.1
+carbs = 74
+fiber = 9.5
+fat = 14.5
 source = 'gold coast product label'
 
 # the forager food co - risotto rice - tasmanian asparagus, peas and lemon

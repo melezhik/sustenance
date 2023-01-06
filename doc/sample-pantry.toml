@@ -282,6 +282,17 @@ carbs = 12.7
 fat = 0.8
 source = 'launceston product label'
 
+# aoraki - freshwater king salmon - cold smoked
+# ingredients: freshwater king salmon (oncorhynchus tshawytscha), salt,
+# golden syrup, black rum and oak wood smoke
+[[food]]
+name = 'aoraki-freshwater-king-salmon-cold-smoked'
+serving-size = '100g'
+protein = 24.2
+carbs = 0.5
+fat = 15.8
+source = 'gold coast product label'
+
 # applestraps - apple
 # ingredients: apple and water; no preservatives, artificial colours &
 # flavours; the peel was left on because it contains flavour, antioxidants
@@ -409,6 +420,17 @@ protein = 11.1
 carbs = 11
 fat = 35.1
 source = 'launceston product label'
+
+# barry's bay cheese - gruyere
+# ingredients: pasteurised cow's milk, non fat milk solids, culture,
+# rennet, sea salt
+[[food]]
+name = 'barrys-bay-cheese-gruyere'
+serving-size = '100g'
+protein = 26.2
+carbs = 1.3
+fat = 33.6
+source = 'gold coast product label'
 
 # basik - quinoa - tri colour
 # ingredients: organic white quinoa, organic red quinoa, organic black
@@ -544,6 +566,19 @@ carbs = 3.1
 # insoluble fiber estimated from firm-tofu
 fiber = [ 1.9, 0.6 ]
 fat = 6.5
+source = 'gold coast product label'
+
+# bean supreme - tofu - plain - organic
+# ingredients: water, organic non-gmo soybeans, firming agent (calcium
+# sulphate)
+[[food]]
+name = 'bean-supreme-tofu-plain-organic'
+serving-size = '100g'
+protein = 12.4
+carbs = 5.1
+# insoluble fiber estimated from tofu
+fiber = [ 3.7, 0.75 ]
+fat = 6.4
 source = 'gold coast product label'
 
 # bean supreme - wholefood mince
@@ -982,6 +1017,28 @@ fiber = 6.4
 fat = 0.8
 source = 'gold coast product label'
 
+# ceres organics - black eyed beans
+# ingredients: certified organic black eyed beans (60%), water
+[[food]]
+name = 'ceres-organics-black-eyed-beans'
+serving-size = '100g'
+protein = 8.8
+carbs = 23.4
+fiber = 3.5
+fat = 0.7
+source = 'gold coast product label'
+
+# ceres organics - brown lentils
+# ingredients: certified organic brown lentils (60%), water
+[[food]]
+name = 'ceres-organics-brown-lentils'
+serving-size = '100g'
+protein = 7
+carbs = 19.6
+fiber = 4.6
+fat = 0.5
+source = 'gold coast product label'
+
 # ceres organics - organic brown rice bites
 # ingredients: certified organic brown jasmine rice (94%), certified
 # organic sunflower oil, natural sea salt (1%)
@@ -994,6 +1051,19 @@ fiber = 4.3
 fat = 7.6
 source = 'launceston product label'
 
+# ceres organics - organic brown rice crackers - sea salt and vinegar
+# ingredients: certified organic jasmine brown rice (92%), certified
+# organic sunflower oil, certified organic rice wine vinegar (1.8%),
+# sea salt (1.2%)
+[[food]]
+name = 'ceres-organics-brown-rice-crackers-sea-salt-vinegar'
+serving-size = '100g'
+protein = 6.6
+carbs = 74.2
+fiber = 4.2
+fat = 7.5
+source = 'gold coast product label'
+
 # ceres organics - organic brown rice crackers - with chia
 # ingredients: certified organic brown jasmine rice (91.4%), certified
 # organic sunflower oil, certified organic chia, natural sea salt (1%)
@@ -1005,6 +1075,28 @@ carbs = 76.1
 fiber = 5.1
 fat = 8.2
 source = 'launceston product label'
+
+# ceres organics - butter beans
+# ingredients: certified organic butter beans (60%), water
+[[food]]
+name = 'ceres-organics-butter-beans'
+serving-size = '100g'
+protein = 7.4
+carbs = 21.5
+fiber = 7.1
+fat = 0.6
+source = 'gold coast product label'
+
+# ceres organics - cannellini beans
+# ingredients: certified organic cannellini beans (60%), water
+[[food]]
+name = 'ceres-organics-cannellini-beans'
+serving-size = '100g'
+protein = 7
+carbs = 18.2
+fiber = 7.4
+fat = 0.5
+source = 'gold coast product label'
 
 # ceres organics - chickpeas
 # ingredients: certified organic chickpeas (60%), water
@@ -1507,6 +1599,17 @@ protein = 23.8
 carbs = 0
 fat = 2.8
 source = 'launceston product label'
+
+# delmaine fine foods - refried beans
+# ingredients: borlotti beans (83%), water, tomato paste, spices, salt,
+# onion (1%), vegetable oil, herbs
+[[food]]
+name = 'delmaine-fine-foods-refried-beans'
+serving-size = '100g'
+protein = 4.1
+carbs = 13.7
+fat = 1.3
+source = 'gold coast product label'
 
 # desert valley date - date coconut rolls
 # ingredients: dates (90%), desiccated coconut (10%)
@@ -2251,6 +2354,17 @@ carbs = 0.5
 fat = 1
 source = 'gold coast product label'
 
+# john west - tuna - in spring water
+# ingredients: purse seine caught skipjack tuna (katsuwonus pelamis)
+# (65%), springwater, salt
+[[food]]
+name = 'john-west-tuna-in-spring-water'
+serving-size = '100g'
+protein = 25.7
+carbs = 0.5
+fat = 1
+source = 'gold coast product label'
+
 # john west - wild alaskan pink salmon
 # ingredients: salmon, salt
 [[food]]
@@ -2259,6 +2373,16 @@ serving-size = '100g'
 protein = 23
 carbs = 0.6
 fat = 5.7
+source = 'gold coast product label'
+
+# john west - wild alaskan red salmon
+# ingredients: salmon, salt
+[[food]]
+name = 'john-west-wild-alaskan-red-salmon'
+serving-size = '100g'
+protein = 22.8
+carbs = 0.6
+fat = 8.1
 source = 'gold coast product label'
 
 # john west - wild caught salmon slices - in spring water
@@ -2370,6 +2494,16 @@ carbs = 26.2
 fat = 41.3
 source = 'gold coast product label'
 
+# kāpiti - pakari aged cheddar
+# ingredients: pasteurised milk, salt, enzyme (animal rennet), cultures
+[[food]]
+name = 'kāpiti-pakari-aged-cheddar'
+serving-size = '100g'
+protein = 23
+carbs = 0.5
+fat = 36.8
+source = 'gold coast product label'
+
 # keep it cleaner - chickpea pasta
 # ingredients: chickpea flour (100%)
 [[food]]
@@ -2433,6 +2567,50 @@ protein = 24.5
 carbs = 63.3
 fat = 1
 source = 'launceston product label'
+
+# la morena - red mexican salsa - homemade style
+# ingredients: tomato, onion, pepper, coriander and iodized salt
+[[food]]
+name = 'la-morena-red-mexican-salsa-homemade-style'
+serving-size = '100g'
+protein = 5.5
+carbs = 16.1
+fat = 8.4
+source = 'gold coast product label'
+
+# la morena - refried bayo beans
+# ingredients: bayo beans (70%), water, vegetable oil, onion and
+# iodized salt
+[[food]]
+name = 'la-morena-refried-bayo-beans'
+serving-size = '100g'
+protein = 5
+carbs = 16.3
+fat = 9.3
+source = 'gold coast product label'
+
+# la morena - refried bayo beans with chipotle and adobo
+# ingredients: bayo beans (65%), water, adobo (7.7%) (tomato, water,
+# vinegar, iodized salt, spices and garlic), vegetable oil, onion,
+# iodized salt and chipotle pepper (3%)
+[[food]]
+name = 'la-morena-refried-bayo-beans-chipotle-adobo'
+serving-size = '100g'
+protein = 5.3
+carbs = 16.1
+fat = 4.2
+source = 'gold coast product label'
+
+# la morena - refried black beans
+# ingredients: black beans (70%), water, vegetable oil, onion and
+# iodized salt
+[[food]]
+name = 'la-morena-refried-black-beans'
+serving-size = '100g'
+protein = 5.5
+carbs = 16.1
+fat = 8.4
+source = 'gold coast product label'
 
 # larder fresh - brown rice, mushroom and seaweed burger
 # ingredients: brown rice (47%), carrot, chickpea, sweet potato, mushrooms
@@ -3207,6 +3385,17 @@ carbs = 72
 fat = 3
 source = 'melbourne product label'
 
+# masterfoods - all-purpose blend
+# ingredients: salt, rice flour, paprika (5%), onion (4%), pepper (2%),
+# garlic, vegetable oil, basil, celery seed, colour (paprika oleoresin)
+[[food]]
+name = 'masterfoods-all-purpose-blend'
+serving-size = '100g'
+protein = 2.6
+carbs = 16.9
+fat = 2.4
+source = 'gold coast product label'
+
 # matakana superfoods - organic acai berry powder
 [[food]]
 name = 'matakana-superfoods-acai-berry-powder'
@@ -3827,6 +4016,20 @@ serving-size = '100g'
 protein = 0
 carbs = 6
 fat = 0
+source = 'gold coast product label'
+
+# naked kitchen - california wellness bowl - with red lentils and ginger
+# ingredients: tomatoes, water, onion, butter beans (10%), red lentils
+# (6%), green beans, carrot, fennel, parsnip, spinach, olive oil, ginger
+# (1%), sea salt, coriander, honey, garlic, lemon juice, cayenne,
+# turmeric, fennel seed
+[[food]]
+name = 'naked-kitchen-california-wellness-bowl-red-lentils-ginger'
+serving-size = '100g'
+protein = 2.7
+carbs = 8.3
+fiber = 2.3
+fat = 1.4
 source = 'gold coast product label'
 
 # naked kitchen - eat well - peanut satay and kumara bowl
@@ -4981,6 +5184,17 @@ fiber = 3.3
 fat = 0.3
 source = 'gold coast product label'
 
+# sun-maid - raisins
+# ingredients: california seedless raisins
+[[food]]
+name = 'sun-maid-raisins'
+serving-size = '100g'
+protein = 3
+carbs = 82.8
+fiber = 5.9
+fat = 0.7
+source = 'gold coast product label'
+
 # sun rice - black rice
 # ingredients: black rice
 [[food]]
@@ -5563,6 +5777,18 @@ fiber = 3
 fat = 4.2
 source = 'gold coast product label'
 
+# tom & luke - snackaballs - cacao, mint and almond
+# ingredients: dates (57%), almonds (20%), desiccated coconut, cacao
+# powder (8%), raisins (5%), peppermint oil (<1%)
+[[food]]
+name = 'tom-and-luke-snackaballs-cacao-mint-almond'
+serving-size = '100g'
+protein = 7.7
+carbs = 58.6
+fiber = 7.5
+fat = 19.4
+source = 'gold coast product label'
+
 # tom & luke - snackaballs - peanut butter & cacao
 # ingredients: dates (52%), peanuts (32%), cacao powder (7%), peanut
 # butter (5%), desiccated coconut, sea salt (<1%)
@@ -5585,6 +5811,17 @@ protein = 12.5
 carbs = 52.8
 fiber = 6.8
 fat = 23.3
+source = 'gold coast product label'
+
+# tonzu - tofu - firm
+# ingredients: certified organic activated whole soybeans, filtered water,
+# natural coagulant pure nigari
+[[food]]
+name = 'tonzu-tofu-firm'
+serving-size = '100g'
+protein = 12.5
+carbs = 4.5
+fat = 3.3
 source = 'gold coast product label'
 
 # tonzu - tofu - original
@@ -6273,6 +6510,18 @@ serving-size = '100g'
 protein = 16.3
 carbs = 0.3
 fat = 1.4
+source = 'gold coast product label'
+
+# woolworths - wild alaskan salmon - lightly smoked
+# ingredients: pink salmon (66%) (oncorhynchus gorbuscha wild caught in
+# the northeast pacific ocean), water (26%), sunflower oil (7%), salt,
+# chilli powder, corn starch, natural smoke flavour, garlic powder
+[[food]]
+name = 'woolworths-wild-alaskan-salmon-lightly-smoked'
+serving-size = '100g'
+protein = 15
+carbs = 0.3
+fat = 7.3
 source = 'gold coast product label'
 
 # yolo - medjool dates
